@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f524842-aeb0-4663-9294-92bfb9090b87" name="Default Changelist" comment="" />
+    <list default="true" id="0f524842-aeb0-4663-9294-92bfb9090b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PostService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostController.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pFNuSgpikdCH8JWvXLmvDrLM29" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +52,7 @@
       <workItem from="1614775586711" duration="51000" />
       <workItem from="1614775768279" duration="6465000" />
       <workItem from="1614882777555" duration="649000" />
-      <workItem from="1615101207649" duration="4611000" />
+      <workItem from="1615101207649" duration="11064000" />
     </task>
     <servers />
   </component>
@@ -48,9 +60,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="179" y="163" key="DiffContextDialog" timestamp="1615114631388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="179" y="163" key="DiffContextDialog/1920.0.1920.1050/0.0.1920.1050/-1366.-99.1366.738@0.0.1920.1050" timestamp="1615114631388" />
     <state x="735" y="356" key="FileChooserDialogImpl" timestamp="1615107669406">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="735" y="356" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050/-1366.-99.1366.738@0.0.1920.1050" timestamp="1615107669406" />
+    <state x="836" y="500" key="Github.ShareDialog" timestamp="1615110126826">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="836" y="500" key="Github.ShareDialog/1920.0.1920.1050/0.0.1920.1050/-1366.-99.1366.738@0.0.1920.1050" timestamp="1615110126826" />
+    <state x="792" y="300" key="Github.UntrackedFilesDialog" timestamp="1615110136108">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="792" y="300" key="Github.UntrackedFilesDialog/1920.0.1920.1050/0.0.1920.1050/-1366.-99.1366.738@0.0.1920.1050" timestamp="1615110136108" />
+    <state x="792" y="322" key="RollbackChangesDialog" timestamp="1615114632626">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="792" y="322" key="RollbackChangesDialog/1920.0.1920.1050/0.0.1920.1050/-1366.-99.1366.738@0.0.1920.1050" timestamp="1615114632626" />
   </component>
 </project>
